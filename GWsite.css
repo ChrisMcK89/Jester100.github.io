@@ -1,0 +1,98 @@
+body {background-color:#FFCC00;
+      font-family: 'Montserrat', sans-serif;}
+
+
+
+.header {
+  position:relative;
+  width:auto;
+  height:150px;
+  background-color:#000000;
+  margin:-10px;
+}
+
+.NavBar {
+  width:auto;
+  height:50px;
+  font-size: 30px;
+  line-height: 30px;
+  Margin-bottom: -0.5px;
+  position:absolute; bottom:0;
+}
+
+
+
+
+ul
+     {
+
+       float:left;
+
+       width:100%;
+       padding:0;
+       margin:0;
+       list-style-type:none;
+     }
+     a
+     {
+       Line-height:50px;
+       text:40px;
+       width:6em;
+       text-decoration:none;
+       color:white;
+       background-color:#000000;
+       padding:0.2em 0.6em;
+       border-right:1px solid #000000;
+     }
+     a:hover
+     {
+
+       background-color:#FFCC00;
+       color:#000000;
+     }
+     li
+     {
+
+       display:inline;
+       height:100px;
+
+     }
+
+.right-match-box {width:300px;
+               height:2000px;
+               position:absolute;
+               right:-40px;
+               top:140px;
+               margin-top:20px;
+               margin-left:-100px;
+               margin-right:50px;
+               border-top-width: 0.5px;
+               background-color:#FFFFFF;}
+
+
+     .content-box-1 {width:500px;
+                    height:698px;
+                    float:left;
+                    margin-top:20px;
+                    margin-left:5px;
+                    margin-right:10px;
+                    border-top-width: 0.5px;
+                    background-color:#FFFFFF;}
+
+      .content-sidespace {width:auto;
+                                   height:698px;
+                                   float:left;
+                                   margin-top:20px;
+                                   margin-left:-50px;
+                                   margin-right:300px;
+                                   border-top-width: 0.5px;
+                                   background-color:#FFFFFF;}
+
+    .content-box-2 {width:500px;
+                                   height:698px;
+                                   float:left;
+                                   margin-top:20px;
+                                   margin-left:5px;
+                                   margin-right:50px;
+                                   border-top-width: 0.5px;
+                                   background-color:#FFFFFF;}
